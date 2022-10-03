@@ -1,0 +1,4 @@
+*{margin-right: 3rem;}body {background-image: url("img4.jpg");background-repeat: no-repeat;background-position: right;}.dropbtn {background-color: #04AA6D;color: white;padding: 2em;font-size: 2em;border: none;}.dropdown {position: relative;display: inline-block;}.dropdown-content {display: none;position: absolute;background-color: #00000000;min-width: 160px;box-shadow: 0em 2em 2em 0em rgba(0, 0, 0, 0);z-index: 1;}.dropdown-content a {color: rgba(0, 0, 0, 0);padding: 2em 3em;text-decoration: none;display:flex;}.dropdown-content a:hover {background-color: rgba(0, 0, 0, 0);}.dropdown:hover .dropdown-content {display: block;}ul {list-style-type: none;background-color: #00000000;}h1{text-align: center;color:brown;}h2{text-align: center;color: #8e793e;}p{color: #6f8e3e;}span{color: rgb(34, 31, 31);}img{margin-right: 3em;}strong{color: rgba(255, 0, 0, 0.199);}
+
+
+
